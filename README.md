@@ -1,9 +1,6 @@
-<!--
-  This is your GitHub PROFILE README (repo HoGSwain/HoGSwain) — it renders at
-  https://github.com/HoGSwain. Personalize the bits below: add your name, a
-  one-line bio, and contact links (LinkedIn / email). HTML comments like this
-  one do NOT render on the page.
--->
+# SONDE Oluwatobi
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SONDE_Oluwatobi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonde-oluwatobi)
 
 ### AI-Augmented Financial Engineering Laboratory (AIFEL)
 
@@ -19,5 +16,3 @@ portfolio analytics, optimization, risk, fixed income, options, and credit.
 **Currently building:** Project 2 — Portfolio Analytics.
 
 **Tech:** Python · pandas · numpy · pyarrow · Typer · pytest · ruff
-
-<!-- Optional: add badges, a LinkedIn link, or contact email here. -->
