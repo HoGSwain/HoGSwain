@@ -13,7 +13,8 @@ portfolio analytics, optimization, risk, fixed income, options, and credit.
 **Featured**
 - ✅ [**Financial Market Data Engine**](https://github.com/HoGSwain/financial-market-data-engine) — the data foundation every later project builds on (acquire → validate → clean → engineer features → store → report). Python library + Typer CLI, 27 passing tests. [![CI](https://github.com/HoGSwain/financial-market-data-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/HoGSwain/financial-market-data-engine/actions/workflows/ci.yml)
 - ✅ [**Portfolio Analytics Engine**](https://github.com/HoGSwain/portfolio-analytics-engine) — returns, volatility, Sharpe, Sortino, max drawdown, beta, and alpha for one or more tickers, built on Project 1. Python library + Typer CLI, 39 passing tests. [![CI](https://github.com/HoGSwain/portfolio-analytics-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/HoGSwain/portfolio-analytics-engine/actions/workflows/ci.yml)
+- ✅ [**Portfolio Optimization Engine**](https://github.com/HoGSwain/portfolio-optimization-engine) — mean-variance optimization: minimum-variance & maximum-Sharpe portfolios and the efficient frontier, built on Projects 1–2. Python library + Typer CLI, 35 passing tests. [![CI](https://github.com/HoGSwain/portfolio-optimization-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/HoGSwain/portfolio-optimization-engine/actions/workflows/ci.yml)
 
-**Currently building:** Project 3 — Portfolio Optimization.
+**Currently building:** Project 4 — Risk Analytics.
 
 **Tech:** Python · pandas · numpy · pyarrow · Typer · pytest · ruff
